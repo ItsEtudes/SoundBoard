@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><class>
+    <sounds>
+        <sound id="0">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="1">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="2">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="3">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="4">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="5">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="6">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="7">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="8">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="9">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="10">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="11">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="12">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="13">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="14">
+            <name></name>
+            <path></path>
+        </sound>
+        <sound id="15">
+            <name></name>
+            <path></path>
+        </sound>
+    </sounds>
+    <device>
+        <name></name>
+    </device>
+    <default-check>
+        <value>false</value>
+    </default-check>
+</class>
